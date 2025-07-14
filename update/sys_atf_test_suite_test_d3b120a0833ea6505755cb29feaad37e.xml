@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-14 05:27:31</sys_created_on>
+        <sys_id>d3b120a0833ea6505755cb29feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a8fe94e883faa6505755cb29feaad3bd</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_d3b120a0833ea6505755cb29feaad37e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-14 05:27:31</sys_updated_on>
+        <test display_value="NeedIt Set Requested for and Email">a8fe94e883faa6505755cb29feaad3bd</test>
+        <test_suite display_value="NeedIt App">cf4b586883faa6505755cb29feaad3c2</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
